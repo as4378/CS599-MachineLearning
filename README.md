@@ -8,6 +8,8 @@ In particular we are computing the lasso path for prostate cancer data in packag
 
 The file Project1/lasso.R contains the code that implments the least angle regression algorithm and plots the lasso path.
 
-The make file contains all the necessay commands to run the code and plot the figure.
+The make file contains all the necessay commands to run the code and plot the figure. 
 
-To redo the analysis just run make on the command line.
+To redo the analysis change to the directory where lasso.R is and just run make on the command line.
+
+This will produce the figure in fig1.pdf
