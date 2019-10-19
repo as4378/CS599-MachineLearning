@@ -12,3 +12,5 @@ The file Project1/lasso.R contains the code that implments the least angle regre
 The make file contains all the necessay commands to run the code and plot the figure. To redo the analysis change to the directory where lasso.R is and just run make on the command line.
 
 This will produce the figure in fig1.pdf. The details are in this file [File](https://github.com/as4378/CS599-MachineLearning/blob/master/Project1/Project1_documentation.pdf)
+
+**Dependencies**: A stable version of R must be installed. Additionally lars package must be installed as the function uses internal functions available in this package and the lars class object.
