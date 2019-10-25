@@ -13,4 +13,4 @@ The make file contains all the necessay commands to run the code and plot the fi
 
 This will produce the figure in fig1.pdf. The details are in this file [File](https://github.com/as4378/CS599-MachineLearning/blob/master/Project1/Project1_documentation.pdf)
 
-**Dependencies**: A stable version of R must be installed. Additionally lars package must be installed as the function uses internal functions available in this package and the lars class object.
+**Dependencies**: A stable version of R must be installed. Additionally lars package must be installed as the function uses internal functions available in this package and the lars class object. Also, package faraway which contains the data for prostate cancer must be installed.
