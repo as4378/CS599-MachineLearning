@@ -1,4 +1,2 @@
-fig1.pdf:lasso.R
-	R CMD BATCH lasso.R
-
-
+fig1.png:lasso.R
+	R -f lasso.R
